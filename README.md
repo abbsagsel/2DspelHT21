@@ -5,7 +5,10 @@ Type fighters is a game that takes place in a dystopian future where all traces 
   </p>
   
 ## Sources & Credits
+### tutorials
 https://www.youtube.com/watch?v=ZVh4nH8Mayg  
 https://www.youtube.com/watch?v=wrJ0itsyVR8  
+### steals
+https://unitycodemonkey.com/utils.php  
 https://assetstore.unity.com/packages/2d/fonts/hana-pixel-font-29725  
 https://penusbmic.itch.io/  
